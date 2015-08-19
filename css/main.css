@@ -3,9 +3,6 @@ body {
     width: 70%;
     background-color:#8B8B8B;
 }
-img {
-    float: right;
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
