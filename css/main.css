@@ -3,7 +3,7 @@ body {
     width: 70%;
     list-style: circle;
 }
-{background-color:#E6E6FA}
+{background-color:#808080}
 nav ul, footer ul {
     font-family:'Georgia-serif', 'Georgia-serif', 'Sans-Serif';
     padding: 0px;
@@ -16,7 +16,8 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #F5DEB3;
+    color: #6CBCBC;
+    font-size: 2em
 }
 a:hover {
     text-decoration: underline;
