@@ -1,6 +1,7 @@
 body {
     margin: 45px auto;
     width: 70%;
+    list-style: circle;
 }
 nav ul, footer ul {
     font-family:'Georgia-serif', 'Georgia-serif', 'Sans-Serif';
