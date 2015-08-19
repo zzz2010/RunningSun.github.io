@@ -21,12 +21,12 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Sans-Serif', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #F5DEB3;
+    font-size: 0.5em;
+    line-height: 1em;
+    color: #999;
 }
 footer {
     border-top: 1px solid #d5d5d5;
